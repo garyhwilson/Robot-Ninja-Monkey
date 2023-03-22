@@ -1,0 +1,21 @@
+{
+  "name": "robot-ninja-monkey",
+  "displayName": "Robot Ninja Monkey",
+  "description": "Inspired by Learn with Sumit, with changes to the terminal colors and syntax highlighting.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Robot Ninja Monkey",
+        "uiTheme": "vs-dark",
+        "path": "./themes/robot-ninja-monkey-color-theme.json"
+      }
+    ]
+  }
+}
