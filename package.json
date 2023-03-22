@@ -1,14 +1,29 @@
 {
-  "name": "robot-ninja-monkey",
-  "displayName": "Robot Ninja Monkey",
-  "description": "Inspired by Learn with Sumit, with changes to the terminal colors and syntax highlighting.",
-  "version": "0.0.1",
+  "name": "theme-robot-ninja-monkey",
+  "displayName": "Robot Ninja Monkey Theme",
+  "description": "A color theme inspired by Learn with Sumit; with changes to the terminal colors and syntax highlighting.",
+  "publisher": "Gary H. Wilson",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.76.0"
+  },
+  "icon": "icons/robot-ninja-monkey-vsc-icon.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/garyhwilson/Robot-Ninja-Monkey"
+	},
+  "author": {
+    "name": "Gary H. Wilson",
+    "email": "me@garyhwilson.com",
+    "url": "http://garyhwilson.com"
   },
   "categories": [
     "Themes"
   ],
+	"keywords": [
+		"VSCode",
+		"Themes"
+	],
   "contributes": {
     "themes": [
       {
